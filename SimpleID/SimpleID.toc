@@ -1,0 +1,12 @@
+## Interface: 40402
+## Title: Simple ID
+## Notes: An addon for use primarily in roleplay servers to function as an ID for players to identify each other with. Type /id to use.
+## Author: Artiom Dolghi
+## Version: 1.0.0
+## RequiredDeps:
+## X-Curse-Project-ID: 999999
+## SavedVariables:
+## SavedVariablesPerCharacter:
+
+# Main Files
+SimpleID.lua
